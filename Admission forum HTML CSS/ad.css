@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+
+  margin: 5;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+}
+.logo{
+    margin-left: 20%;
+    color: white;
+}
+body{
+    margin: 0 0 0 0;
+    /* background: radial-gradient(circle at 10% 20%, rgb(87, 108, 117) 0%, rgb(37, 50, 55) 100.2%); */
+    background: linear-gradient(60deg, #29323c 0%, #485563 100%);
+
+    
+}
+.main{
+   padding: 1%;
+   margin-top: 2%;
+   box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+    background: #d9d9d9;
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    height: auto;
+    padding: 25px 30px;
+    margin-left: 42%;
+    position: absolute;
+}
+.ok{
+padding: 1%;
+width: 8%;
+}
+.logo{
+    padding: 1%;
+    text-align: justify;
+}
+h2{
+    margin-left: 12%;
+    margin-top: -7%;
+}
+
+input{
+    border-radius: 25px;
+    width: 30%;
+    border: none;
+    padding: 1%;
+}
+.username{
+    margin-top: 1%;
+    padding: 1%;
+    font-weight: bold;
+    border-radius: 5%;
+    border: none;
+}
+.username .hello{
+    margin-left: 6%;
+
+}
+.username .fb{
+    margin-left : 1%;
+}
+
+.i{
+    margin-top: 1%;
+    padding: 1%;
+    font-weight: bold;
+    border-radius: 5%;
+    border: none;
+}
+.farhan{
+    margin-left: 1%;
+}
+.i .a{
+    margin-right: 3%;
+}
+.i .b{
+    margin-left: 4.5%;
+}
+.i .he{
+    margin-left: 6%;
+}
+.i .fb{
+    margin-left : 6.5%;
+}
+.he{
+    margin-left: 6%;
+}
+.x{
+    margin-top: 1%;
+    padding: 1%;
+    font-weight: bold;
+    border-radius: 5%;
+    border: none;
+}
+.x .a{
+    margin-right: 3%;
+}
+.x .c{
+    margin-left: 3%;
+}
+.x .he{
+    margin-left: 6%;
+}
+.x .aa{
+    margin-right: 4%;
+}
+.x .cc{
+    margin-left: 5%;
+}
+.x .hee{
+    margin-left: 6%;
+}
+.x .fbbb{
+    margin-left: 4%;
+}
+.x .aaa{
+    margin-right: 3%;
+}
+.x .ccc{
+    margin-right: 2%;
+}
+.x .heee{
+    margin-left: 4%;
+}
+select{
+    margin-left: 4%;
+}
+.l{
+    padding: 1%;
+    margin-top: 2%;
+    width: 15%;
+    text-align: center;
+    font-size: large;
+    float: right;
+    cursor: pointer;
+}
+.bye{
+    margin-bottom: 2%;
+    padding: 2;
+}
+.con{
+    position: relative;
+    padding: 2%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 42%;
+    text-align: justify;
+}
+.ff{
+    
+    padding: 1%;
+}
+table{
+    border: 1px solid black;
+    margin-top: 3%;
+    border-collapse: collapse;
+    margin-bottom: 2%;
+    
+    
+    
+}   
+td{
+    width: 20%;
+    padding: 1%;
+    border: 1px solid white;
+}
+.l:hover{
+    background: rgb(92, 200, 236);
+}
+
+
